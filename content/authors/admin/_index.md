@@ -29,8 +29,6 @@ education:
     year: 2021
   - course: Strategies in Organizations, CCAS
     year: 2021
-  - course: Leadership and Performance, CCAS
-    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
