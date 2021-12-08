@@ -14,10 +14,10 @@ organizations:
   url: https://www.gwu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Major: International Affairs, Concentration in Conflict Resolution Minors: Journalism and Mass Communications & Organizational Science
+bio: Major- International Affairs, Concentration in Conflict Resolution Minors- Journalism and Mass Communication & Organizational Science
 
 # Interests to show in About widget
-Organizations:
+interests:
 - Surfrider Foundation, GW
 - Alpha Phi Omega Service Fraternity
 
@@ -48,10 +48,10 @@ social:
     header: true
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/JoannaMarcus
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/joanna-marcus-a256b51a2/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -67,8 +67,8 @@ email: ""
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Major- International Affairs, Concentration in Conflict Resolution Minors- Journalism and Mass Communication & Organizational Science Surfrider Foundation, GW- Financial Director
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

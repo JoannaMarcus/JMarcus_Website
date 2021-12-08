@@ -16,18 +16,24 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
+- icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
-  icon: chart-line
+- icon: chart-line
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: Razors Edge Database
+- icon: mobile-alt
   icon_pack: fas
-  name: Photography
+  name: Social Media
+- icon: table
+  icon_pack: fas
+  name: Excel
+- icon: pencil-ruler
+  icon_pack: fas
+  name: Canva
+- icon: video
+  icon_pack: fas
+  name: Adobe Premiere Pro
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
