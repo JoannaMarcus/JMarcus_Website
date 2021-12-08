@@ -14,7 +14,7 @@ organizations:
   url: https://www.gwu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Major- International Affairs, Concentration in Conflict Resolution Minors- Journalism and Mass Communication & Organizational Science
+bio: Joanna is a senior at The Elliot School of International Affairs concentrating in Conflict Resolution. She has experience in non-profit development communication and event planning. Joanna serves as the financial director or Surfrider GW, a chapter of the national ocean conservatory foundation. She also volunteers regularly through Washington DC with her service fraternity, APO.
 
 # Interests to show in About widget
 interests:
@@ -24,11 +24,16 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Reporting in a Digital Age, SMPA
+  - course: BA, International Affairs Concentration in Conflict Resolution
     institution: George Washington University
-    year: 2021
-  - course: Strategies in Organizations, CCAS
-    year: 2021
+    year: 2022
+  - course: Minor, Journalism and Mass Communications
+    institution: George Washington University
+    year: 2022
+  - course: Minor, Organizational Science
+    institution: George Washington University
+    year: 2022
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
