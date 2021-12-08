@@ -70,8 +70,7 @@ email: ""
 highlight_name: true
 ---
 
-Major- International Affairs, Concentration in Conflict Resolution Minors- Journalism and Mass Communication & Organizational Science Surfrider Foundation, GW- Financial Director
-
+Joanna is a senior at The Elliot School of International Affairs concentrating in Conflict Resolution. She has experience in non-profit development communication and event planning. Joanna serves as the financial director or Surfrider GW, a chapter of the national ocean conservatory foundation. She also volunteers regularly through Washington DC with her service fraternity, APO.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
