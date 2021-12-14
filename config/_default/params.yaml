@@ -21,7 +21,6 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: jxmarcus@gwu.edu
-phone: 888 888 88 88
 address:
   street: 2121 I Street NW 
   city: Washington
@@ -32,16 +31,7 @@ address:
 coordinates:
   latitude: '38.8997'
   longitude: '-77.04867'
-appointment_url: 'https://calendly.com'
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
+
 
 # Site header
 
