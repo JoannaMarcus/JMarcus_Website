@@ -6,7 +6,7 @@ tags:
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: file:///Users/joannamarcus/Downloads/SMPA%202110%20(FS)%20(1).pdf
+external_link: https://docs.google.com/document/d/14c5S9WaSNIC2vVJvJe5x_yzx4lFm9Cn_y9_PB6ubZug/edit?usp=sharing
 
 image:
   caption: Photo by Toa Heftiba on Unsplash
