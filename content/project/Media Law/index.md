@@ -1,8 +1,8 @@
 ---
-title: Last Call Article
-summary: SMPA 2110 Final Feature Article
+title: Conflict Resolution Paper 1
+summary: The FARC-Colombian Government Conflict
 tags:
-- Journalism
+- International Affairs
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
