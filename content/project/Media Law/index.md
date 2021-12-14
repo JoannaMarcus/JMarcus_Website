@@ -1,8 +1,8 @@
 ---
-title: Conflict Resolution Paper 1
-summary: The FARC-Colombian Government Conflict
+title: Media Law Case Brief
+summary: Red Lion Broadcasting Co v Federal Communications Commission
 tags:
-- International Affairs
+- Journalism
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
