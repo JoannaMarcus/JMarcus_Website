@@ -25,7 +25,6 @@ experience:
   - title: Communications Specialist
     company: George Washington University
     company_url: ''
-    company_logo: org-x
     location: Washington, DC
     date_start: '2020-01-15'
     date_end: ''
@@ -39,7 +38,6 @@ experience:
   - title: Developmental Events Intern
     company: Melanoma Research Foundation
     company_url: ''
-    company_logo: org-x
     location: Washington, DC
     date_start: '2021-06-01'
     date_end: '2021-12-01'
