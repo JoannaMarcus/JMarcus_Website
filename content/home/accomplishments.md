@@ -23,30 +23,15 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://gwu.campuslabs.com/engage/
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2018-08-25"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  organization: Comunity Service
+  organization_url: https://gwu.campuslabs.com/engage/
+  title: Completion of over 100 hours of Community Service
   url: ""
-- certificate_url: 
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.dataquest.io/
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataQuest
-  organization_url: https://www.dataquest.io/
-  title: 'Intro to Programming in R'
-  url: ""
+
 
 design:
   columns: '2' 
